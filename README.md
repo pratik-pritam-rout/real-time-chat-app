@@ -36,7 +36,7 @@ It features secure JWT authentication, real-time messaging, and cloud-based medi
 - Fast and responsive UI
 
 ---
-
+```
 ## Project Structure
 root/
 │
@@ -54,7 +54,7 @@ root/
 │ │ ├── pages/
 │ │ ├── store/
 │ │ └── lib/
-
+```
 
 ---
 
