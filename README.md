@@ -109,10 +109,12 @@ npm run dev
 ```
 ---
 
+---
+
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Home Page](./screenshots/home-page.png)
+### 📝 Signup Page
+![Signup Page](./screenshots/signup-page.png)
 
 ---
 
@@ -121,13 +123,8 @@ npm run dev
 
 ---
 
-### 📝 Signup Page
-![Signup Page](./screenshots/signup-page.png)
-
----
-
-### 💬 Chat Preview
-![Chat Preview](./screenshots/preview.png)
+### 🏠 Home Page
+![Home Page](./screenshots/home-page.png)
 
 ---
 
@@ -139,3 +136,7 @@ npm run dev
 ### ⚙️ Settings Page
 ![Settings Page](./screenshots/settings-page.png)
 
+---
+
+### 💬 Chat Preview
+![Chat Preview](./screenshots/preview.png)
