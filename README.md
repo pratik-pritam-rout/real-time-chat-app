@@ -107,5 +107,35 @@ Frontend:
 cd frontend
 npm run dev
 ```
-📸 Screenshots
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./screenshots/home-page.png)
+
+---
+
+### 🔐 Login Page
+![Login Page](./screenshots/login-page.png)
+
+---
+
+### 📝 Signup Page
+![Signup Page](./screenshots/signup-page.png)
+
+---
+
+### 💬 Chat Preview
+![Chat Preview](./screenshots/preview.png)
+
+---
+
+### 👤 Profile Page
+![Profile Page](./screenshots/profile-page.png)
+
+---
+
+### ⚙️ Settings Page
+![Settings Page](./screenshots/settings-page.png)
 
